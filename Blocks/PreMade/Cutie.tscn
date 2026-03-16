@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="StreamTexture" id=1]
+
+[node name="Cutie" type="Sprite"]
+position = Vector2( 3.05176e-05, 1.52588e-05 )
+scale = Vector2( 1.0625, 1.06667 )
+texture = SubResource( 1 )
+offset = Vector2( 256, 240 )
